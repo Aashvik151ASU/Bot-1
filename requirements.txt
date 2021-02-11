@@ -10,6 +10,7 @@ joblib==1.0.1
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mathparse==0.1.2
+nltk==3.5
 mccabe==0.6.1
 packaging==20.9
 Pint==0.16.1
