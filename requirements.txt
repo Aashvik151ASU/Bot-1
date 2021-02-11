@@ -12,7 +12,6 @@ MarkupSafe==1.1.1
 mathparse==0.1.2
 mccabe==0.6.1
 nltk==3.5
-numpy==1.20.1
 packaging==20.9
 Pint==0.16.1
 pylint==2.6.0
